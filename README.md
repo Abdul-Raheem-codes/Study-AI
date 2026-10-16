@@ -44,5 +44,4 @@ Manual tests with the running app: (1) lecture slide with Quick Notes, (2) diagr
 - Notes may contain errors; verify against the source.
 - Confirm your chosen Groq model supports image input.
 
-## Screenshots
-None included yet. Capture your own after running the three tests and save them in `docs/screenshots/`.
+
